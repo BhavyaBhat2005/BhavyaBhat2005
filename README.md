@@ -75,12 +75,10 @@ Educational website making information about **Indian snake species** accessible
 ---
 
 ## ✍️ Beyond Code
-
-📰 **Student Editor-in-Charge & Committee Head** — Shreelekha  
-🚀 **LinkedIn Manager & Content Strategist** — Entrepreneurship, Incubation & Startup Cell  
+  
 📱 **Content & Social Media** — MES Garware College  
-🏅 **Best Volunteer Award** — MES Garware College
-
+🚀 **LinkedIn Manager & Content Strategist** — Entrepreneurship, Incubation & Startup Cell  
+📰 **Magazine Student Editor-in-Charge & Committee Head** — Shreelekha
 ---
 
 ## 🌱 Currently
