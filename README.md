@@ -71,14 +71,8 @@ understand.
 - 🚀 **LinkedIn Manager & Content Strategist** — Entrepreneurship, Incubation & Startup Cell
 - 📱 **Content & Social Media** — MES Garware College
 
-## 🌱 Currently
-
-Building my technical and research foundation in **software development,
-HCI, accessibility, cybersecurity, and research** through my MCA.
-
-> 💡 Building technology that works — for more people.
 
 ## 📫 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bhavya-bhat/)
-- 💻 [GitHub](https://github.com/BhavyaBhat2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavya%20Bhat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhavya-bhat/)
+[![GitHub](https://img.shields.io/badge/GitHub-BhavyaBhat2005-black?style=flat&logo=github)](https://github.com/BhavyaBhat2005)
