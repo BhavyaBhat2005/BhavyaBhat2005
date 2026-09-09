@@ -67,9 +67,9 @@ understand.
 
 ## ✍️ Experience Beyond Development
 
-- 📰 **Student Editor-in-Charge & Committee Head** — Shreelekha
+- 📱 **Content Head & Social Media** — MES Garware College
 - 🚀 **LinkedIn Manager & Content Strategist** — Entrepreneurship, Incubation & Startup Cell
-- 📱 **Content & Social Media** — MES Garware College
+- 📰 **Magazine Student Editor-in-Charge & Committee Head** — Shreelekha
 
 
 ## 📫 Connect
