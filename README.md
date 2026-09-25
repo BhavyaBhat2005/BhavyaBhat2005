@@ -1,6 +1,6 @@
 # Hi, I'm Bhavya 👋
 
-### HCI • Accessibility • Cybersecurity • UX Research
+### Human- Computer Interaction • Accessibility • Cybersecurity • UX Research
 
 I'm an **MCA student and researcher** interested in building technology that is
 **usable, inclusive, secure, and human-centered**.
